@@ -1,0 +1,41 @@
+html{
+    background-attachment: fixed;
+    background-image: url(https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074076.jpg?w=2000);
+    background-size: 100%;
+}
+
+.input
+{
+    height:400px;
+    width:400px;
+    border:3px solid black;
+    margin-left: 500px;
+    margin-top: 80px;
+    border-radius: 20px;
+    background-color: white;
+    opacity: 0.8;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+button
+{
+    margin-left: 160px;
+    height:30px;
+    width:80px;
+    
+    
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.bg h1
+{
+  color:white;
+}

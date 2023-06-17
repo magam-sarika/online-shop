@@ -1,0 +1,21 @@
+html{
+    background-attachment: fixed;
+    background-image: url(https://img.freepik.com/premium-photo/annual-sale-shopping-season-concept-mini-pink-shop-cart-trolley-full-paper-bag-gift-isolated-pale-pink-background-blank-copy-space-close-up_315337-9558.jpg?w=2000);
+    background-size: 100%;
+}
+
+.class{
+    color:black;
+    font-size: bold;
+    font-weight: 600;
+     height:350px;
+     width:350px;
+     border:2px solid black;
+     margin:auto;
+    justify-content: space-between;
+    font-size: bold;
+  border-radius:30px 30px 30px 30px;
+  background-color: white;
+  opacity: 0.9;
+ }
+ 
